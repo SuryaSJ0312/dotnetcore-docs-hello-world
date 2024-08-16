@@ -53,5 +53,5 @@ jobs:
         with:
           app-name: 'Finalglproject'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_2310EE84AA774D94A65B894B28D9BB13 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_8F00E2AE992049EE92B5270F4027D808 }}
           package: .
